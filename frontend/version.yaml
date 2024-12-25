@@ -1,0 +1,7 @@
+version: 2.15.5
+changeLogLink: https://t.me/jiao_long/356
+changeLog: |
+  1. 修复定时任务命令不以task开头时，不能自动执行
+  2. 修改服务异常逻辑
+  3. 修复退出调试报错
+  4. 修复脚本编辑器加载慢
